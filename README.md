@@ -19,9 +19,6 @@
 
 ## Medium Articles
 
-- [How to add GIFs in GitHub README Without Software](https://frcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
-- [Google Play Services for Genymotion](https://frcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
-
 
 
 <!--
