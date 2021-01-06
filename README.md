@@ -4,11 +4,11 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8490" alt="frcihan" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frcihan/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan)
-[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/8490/)
+<!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://8490.medium.com/)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ-8490)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/8490)
+[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345-8490) -->
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
-## Medium Articles
+<!-- ## Medium Articles -->
 
 
 
@@ -57,4 +57,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--->
